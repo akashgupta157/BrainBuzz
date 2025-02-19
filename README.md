@@ -27,7 +27,7 @@ Make sure you have **Node.js** and **npm/yarn** installed on your system.
 ### Steps to run locally
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/akashgupta157/BrainBuzz
    ```
 2. Navigate to the project folder:
    ```sh
@@ -45,15 +45,15 @@ Make sure you have **Node.js** and **npm/yarn** installed on your system.
 
 ## Deployment
 This application is deployed on **Vercel/Netlify**.
-- Deployed Link: [Quiz App](#)
-- GitHub Repository: [Repo Link](#)
+- Deployed Link: [Quiz App](https://brain-buzz-nine.vercel.app)
+- GitHub Repository: [Repo Link](https://github.com/akashgupta157/BrainBuzz)
 
 ## Folder Structure
 ```
 brainbuzz/
 │── src/
 │   ├── pages/
-│   ├── App.js
+│   ├── App.jsx
 │   ├── main.jsx
 │── public/
 │── package.json
